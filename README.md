@@ -19,8 +19,8 @@
 - Since the overall market has grown rapidly, even with a smaller share, Monopoly’s total sales have increased.
 
 
-### Average Price for Monopoly®
-  - Classic Monopoly®: ₹999–₹1,499
+### Average Price for Monopoly
+  - Classic Monopoly: ₹999–₹1,499
   - Special/Deluxe editions: ₹1,479–₹3,699
   - Budget/compact versions: ₹499–₹999
   - Average price for a standard Monopoly set (in 2024): ₹1,200–₹1,500
