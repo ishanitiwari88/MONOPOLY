@@ -33,3 +33,9 @@ Calculation-
 Number of games per person per year = Per capita revenue/Average price per game  = 0.07/10 = 0.007  
 This means that, on average, fewer than 1 in 100 people buy a board game each year in India.  
 
+## Annual Sale
+```
+annual sale (in INR) = population of people playing board game X board games pichase per year X Market Share of Monopoly X Avg. Price of each Monopoly game
+
+in USD - (annual sale (in INR) / exchange_rate)*1000
+```
